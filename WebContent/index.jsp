@@ -9,5 +9,17 @@
   </head>
   <body>
     <h1>Hello World!</h1>
+
+	Panel logowania: 
+	
+	<form action=UserServlet method=post>
+	<input type=text name=login /><br>
+	<input type="password" name=passw /><br>
+	<input type=submit value=ok>	
+	
+	</form>
+
   </body>
 </html> 
+
+
